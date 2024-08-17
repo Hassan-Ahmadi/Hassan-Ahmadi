@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Hassan Ahmadi
 
+### Python Developer
 <!--
 **Hassan-Ahmadi/Hassan-Ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me:
+- Find me on [Linkedin](https://www.linkedin.com/in/hassan-ahmadi-4519b485/)
+- Or just write an [email](mailto:h20.ahmadi@gmail.com)
